@@ -1,6 +1,23 @@
 DSC 180B Syllabus
 =================
 
+1. [Introduction](#Introduction)
+2. [Course Components](#coursecomponents)
+   1. [Grading of course components](#componentgrading)
+   2. [Grading rubric](#rubric)
+   3. [Grading: Group vs. Individual Work](#groupgrade)
+3. [Assignments and Due Dates](#duedates)
+4. [Monday Lecture Schedule](#lecture)
+5. [Wednesday Domain Meetings](#domain)
+6. [Lab and Office Hours](#OH)
+7. [Working in Groups in Remote Environments](#groupenv)
+8. [Academic Integrity](#AI)
+9. [Assignment Descriptions](#assignments)
+
+
+Introduction <a name="Introduction"></a>
+------------
+
 In DSC 180B, you will execute on the project proposal you drafted with your group in DSC180A. This entails working closely with the group you formed last quarter to follow through on your idea, producing a complete project that includes:
 
 -   A code repository that conforms to best practices in data science workflows,
@@ -13,7 +30,7 @@ In DSC 180B, you will execute on the project proposal you drafted with your grou
 
 Your group will work on the project openly as a part of your greater scholarly community (i.e. your section), contributing/receiving feedback to/from your peers. At the end of the quarter, you will be able to represent your project effectively to a diverse audience: possibly presenting it to the greater HDSI community, potential employers, family, and friends.
 
-Course Components
+Course Components <a name="coursecomponents"></a>
 -----------------
 
 This course revolves around your work as a group and the deliverables your group produces. Regularly scheduled check-ins encourage steady, incremental progress without last-minute obstacles.
@@ -44,7 +61,7 @@ The course deliverables are described below (with links to assignments therein):
 -   Two oral presentations: An elevator pitch for a general audience
     and a longer slide-based presentation aimed at a technical audience.
 
-### Grading of course components
+### Grading of course components <a name="componentgrading"></a>
 
 |Component|Assignment|% of Grade|
 |---|---|---|
@@ -65,6 +82,8 @@ Each assignment will be graded on an A/B/C/F scale, without the precision of plu
 
 2.  Stripped of physical campus resources and space, the suitability of student work environments in this rushed delivery of remote instruction vary wildly. Such variability adds more noise in student output, which needs to be met with a decrease in grading precision.
 
+### Grading rubric <a name="rubric"></a>
+
 Assignments will be graded using the following rubric:
 
 |Grade|Criteria|
@@ -76,13 +95,13 @@ Assignments will be graded using the following rubric:
 
 Final grades will be computed using the grade-points above, using the proportions given in the course components table. Letter grades will be assigned using the standard university cutoffs.
 
-### Grading: Group vs. Individual Work
+### Grading: Group vs. Individual Work <a name="groupgrade"></a>
 
 Written assignments are in part graded against the rubric that each group creates in their project proposal, which specifies the tasks that each group member is responsible for. These written (and coded) assignments will be submitted with a list of the group members and the portions of the assignment each member completed.
 
 Assignments will largely be graded uniformly as a group. However, if the balance of quality or quantity of work is significantly non-uniform, grades may be apportioned out individually.
 
-Assignments and Due Dates
+Assignments and Due Dates <a name="duedates"></a>
 -------------------------
 
 Assignments in the participation category are due on a regular schedule:
@@ -104,7 +123,7 @@ The assignments and due dates for the remainder of the assignments are in the ta
 |Project Checkpoint #3 (full project artifact) |Gradescope (code) + Turnitin (report) |Week 7 |
 |Long oral presentation |Live (and recorded) presentation on Zoom |Week 8 |
 
-Monday Lecture Schedule
+Monday Lecture Schedule <a name="lecture"></a>
 -----------------------
 
 Lecture will be pre-recorded and should be watched by the Monday given in the schedule below. Each lecture contains specifics necessary for properly developing your project and completing assignments according to their grading rubric.
@@ -122,14 +141,14 @@ Lecture will be pre-recorded and should be watched by the Monday given in the sc
 |9 |Presentations |
 |10 |Presentations |
 
-Wednesday Domain Meetings
+Wednesday Domain Meetings <a name="domain"></a>
 -------------------------
 
 Wednesday domain meetings will be synchronously held; attendance is required. These will be held over Zoom and consist of giving project updates to instructors and classmates.
 
 Before meeting each week, each group must submit a written version of their project update on Canvas (one submission per group).
 
-Lab and Office Hours
+Lab and Office Hours  <a name="OH"></a>
 --------------------
 
 Lab hours and office hours will be available on both a drop-in basis, as well as by appointment, over Zoom.
@@ -142,12 +161,17 @@ Lab hours and office hours will be available on both a drop-in basis, as well as
 
 Zoom meeting details for office hours will be posted on the Canvas calendar.
 
-Working in Groups in Remote Environments
+Working in Groups in Remote Environments <a name="groupenv"></a>
 ----------------------------------------
 
 ... a section on tips for working in groups in remote environments...
 
-Assignments
+Academic Integrity <a name="AI"></a>
+------------------
+
+...
+
+Assignments <a name="assignments"></a>
 -----------
 
 ### Participation: weekly check-in

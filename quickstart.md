@@ -9,17 +9,17 @@ of the course delivery; this guide will focus on differences.
 Required Services
 -----------------
 
--   Canvas will serve as a central repository for all materials in the course. Grades will be kept up to date in Canvas and contain links to other course materials.
+-   **Canvas** will serve as a central repository for all materials in the course. Grades will be kept up to date in Canvas and contain links to other course materials.
 
--   Coding assignments will be submitted to Gradescope via your group's project GitHub repository). Your gradescope is linked to the course Canvas.
+-   Coding assignments will be submitted to **Gradescope** via your group's project **GitHub** repository). Your gradescope is linked to the course Canvas.
 
--   Written reports will be submitted to Turnitin (linked through Canvas).
+-   Written reports will be submitted to **Turnitin** (linked through Canvas).
 
--   Project work will be worked on personal computing devices or the DSMLP Server. (Note: campus VPN is not required to use the DSMLP server).
+-   Project work will be worked on personal computing devices or the **DSMLP** Server. (Note: campus VPN is not required to use the DSMLP server).
 
--   Office hours, discussion section, and lab hours will be conducted via Zoom.
+-   Office hours, discussion section, and lab hours will be conducted via **Zoom**.
 
--   Piazza will be available for questions and course communication.
+-   **Piazza** will be available for questions and course communication.
 
 Be sure to test access to each of these services as soon as possible.
 

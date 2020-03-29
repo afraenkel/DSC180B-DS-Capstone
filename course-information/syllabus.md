@@ -11,7 +11,6 @@
 6. [Lab and Office Hours](#OH)
 7. [Working in Groups in Remote Environments](#groupenv)
 8. [Academic Integrity](#AI)
-9. [Assignment Descriptions](#assignments)
 
 
 ## Introduction <a name="Introduction"></a>
@@ -61,26 +60,32 @@ The course deliverables are described below (with links to assignments
 therein):
 
 -   Participation in the process of project development involves
-    giving weekly updates in Discussion Section, submitting updates to
-    Canvas, and giving assigned feedback to your peers.
+    giving [weekly updates](../assignments/00-weekly-checkin.md) in
+    Discussion Section, submitting updates to Canvas, and giving
+    [assigned feedback to your peers](../assignments/00-peer-review.md).
 
--   Refining your group's proposal and schedule after each project
-    checkpoint.
+-   Refining your group's proposal and schedule at the [begining of the
+    course](../assignments/01-getting-started.md) and after each
+    [project checkpoint](../assignments/02-project-checkpoints.md).
+    
+-   The [project artifact](../assignments/07-final-project.md)
+    consists of a code pipeline following the best practices outlined
+    in the methodology portion of the course, documentation for
+    users/developers, and a report summarizing the project and
+    analyzing the results.
 
--   The project artifact consists of a code pipeline following the
-    best practices outlined in the methodology portion of the course,
-    documentation for users/developers, and a report summarizing the
-    project and analyzing the results.
+-   The project artifact includes 3 [project
+    checkpoint](../assignments/02-project-checkpoints.md) similar to
+    those in 180A.
+    
+-   A primary and secondary [visual/written
+    communication](../assignments/06-viz.md) of your project, along
+    with a [checkpoint](../assignments/04-viz-checkpoint.md).
 
--   The project artifact includes 3 checkpoints similar to those in
-    180A.
-
--   A primary and secondary visual/written communication of your
-    project.
-
--   Two oral presentations: An elevator pitch for a general audience
-    and a longer slide-based presentation aimed at a technical
-    audience.
+-   Two oral presentations: An [elevator
+    pitch](../assignments/03-elevator-pitch.md) for a general audience
+    and a longer [slide-based presentation](../assignments/05-talk.md)
+    aimed at a technical audience.
 
 ### Grading of course components <a name="componentgrading"></a>
 
@@ -246,151 +251,5 @@ required in this course. Ignorance of the rules will not excuse you
 from any violations.
 
 
-## Assignments <a name="assignments"></a>
 
-### Participation: weekly check-in
 
-Every week, each group must get together to update each other on the
-week's progress. By Tuesdays 11:59PM PDT, the group must submit a
-written submission answering the following questions:
-
--   What tasks from the previous week's to-do list were attempted
-    (noting who attempted what task).
-
--   From those attempted tasks, which were completed? If they weren't
-    completed, what percentage of each task was completed?
-
--   What difficulties or obstacles were encountered in the tasks you
-    attempted?
-
--   What tasks will you be attempting in the next week and why? (note
-    who will be attempting each task).
-
-Each group member must be prepared to represent their entire group for
-the weekly check-in during discussion section Wednesday
-
-### Participation: peer-reviews
-
-After each assignment, you will be randomly assigned another student's
-work to peer-review:
-
--   For the project proposal, project checkpoints, and
-    long-presentation, you will be assigned another group's work
-    within your domain.
-
--   For the visual presentation and elevator pitch, you will be
-    assigned another group's work outside your domain.
-
-The specific questions to be answered in your peer reviews are
-included at the end of each assignment.
-
-### Project Checkpoints (3x)
-
-[[TO COMPLETE]]
-
--   Each project checkpoint is taken from the proposal
-    schedule. Students can create their own rubric on which to be
-    graded, or choose the default (e.g. data ingestion; EDA)
-
--   Each project checkpoint needs individual level tasks alongside
-    group-wide ones (so not all grading is group-level).
-
--   After each project checkpoint, the proposal/schedule can be
-    revised based on current progress.
-
-### Visual Presentation Checkpoint
-
-...(1) set up code to host the content and (2) sketch an outline of
-the content...
-
-### The 'Getting Started' assignment
-
-The first assignment sets up initial project details and
-infrastructure for your work throughout the quarter. This consists of:
-
--   Revising your project proposal (adding specificity and
-    incorporating comments).
-
--   Revising the schedule in your project proposal, adding
-    specificity. Include the tasks that each individual will work on
-    through project-checkpoint-1.
-
--   Creating a 'backlog' of specific tasks that will serve as a rubric
-    for project checkpoint #1.
-
--   Create a project GitHub repository following the project template
-    from 180A.
-
-### Final Project Artifact
-
-The final project artifact consists of the project's code,
-documentation, and written report. Details on the three components:
-
-1.  Project code must follow best practices for the 'anatomy of a
-    DS-project' from 180A.
-
-2.  The project should have documentation for users and potential
-    developers on the project. Such documentation should exist as
-    narrative documentation, docstrings, and code comments where
-    appropriate.
-
-3.  The project artifact should include a written report introducing
-    the project and summarizing/analyzing the results. The report is
-    modeled after the result-replication report in 180A.
-
-### Elevator Pitch
-
-The elevator pitch is a < 2 minute project pitch that motivates the
-problem and summarizes the approach. The pitch should convince the
-audience the problem is worth pursuing and contain just enough detail
-to make it clear what the project involves. The pitch is due once work
-on the project has begun (and the plan-of-action is stable), but
-before results have been obtained. The elevator pitches from 180A will
-be discussed before reworking them.
-
-### Long Presentation
-
-The 'long presentation' is a 20 minute, slide-based presentation aimed
-at a semi-technical audience. The group should split the presentation
-up between all individuals. The content breakdown of the presentation
-should be:
-
--   Non-technical introduction to the problem at-hand (25%)
-
--   Description of approach taken, getting increasingly technical
-    (50%)
-
--   Results, possible further work, and conclusion (25%)
-
-See the lecture on effective presentations for reference.
-
-### Visual Presentation
-
-The visual presentation should allow people to understand and interact
-with the output of your project through visual media and written
-content. This content should be largely accessible to a general
-audience. Examples of visual presentation include, but are not limited
-to:
-
--   A (long-form) blog post, hosted on GitHub pages or a local
-    web-server.
-
--   A gallery of visual content representing the output of the
-    project.
-
--   A website or app (with a frontend) that provides a service or tool
-    with output generated by your project output.
-
-The visual presentation can either be your primary or secondary form
-of project output.
-
--   If the visual presentation is your primary output, then it must
-    RUBRIC:XXXXXXX. In this case, the report turned in with the
-    project artifact will consist of a basic summary of the process
-    and results.
-
--   If the visual presentation is your secondary output, then it can
-    merely provide a visual hook and summary for the project to a
-    general audience. In this case, the report turned in with the
-    project artifact will consist of a thorough, visually clear,
-    scientific report.

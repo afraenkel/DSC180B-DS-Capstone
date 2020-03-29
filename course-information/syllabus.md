@@ -18,52 +18,46 @@ Course Components
 
 This course revolves around your work as a group and the deliverables your group produces. Regularly scheduled check-ins encourage steady, incremental progress without last-minute obstacles.
 
--   Lectures are pre-recorded videos that you may watch asynchronously. They will contain context, specifics, and standards to which your course assignments will be held.
+-   **Lectures** are pre-recorded videos that you may watch asynchronously. They will contain context, specifics, and standards to which your course assignments will be held.
 
--   Discussion section will be synchronously held; attendance is required. These will be held over Zoom and consist of giving project updates to instructors and classmates.
+-   **Discussion** section will be synchronously held; attendance is required. These will be held over Zoom and consist of giving project updates to instructors and classmates.
 
--   Lab Hours and OH will be held over Zoom from Canvas (exact structure, TBD).
+-   **Lab Hours** and OH will be held over Zoom from Canvas (exact structure, TBD).
 
 The course deliverables are described below (with links to assignments therein):
 
--   Participation in the process of project development involves giving weekly updates in Discussion Section, submitting updates to Canvas, and giving assigned feedback to your peers.
+-   Participation in the process of project development involves
+    giving weekly updates in Discussion Section, submitting updates to
+    Canvas, and giving assigned feedback to your peers.
 
 -   Refining your group's proposal and schedule after each project checkpoint.
 
--   The project artifact consists of a code pipeline following the best practices outlined in the methodology portion of the course, documentation for users/developers, and a report summarizing the project and analyzing the results.
+-   The project artifact consists of a code pipeline following the
+    best practices outlined in the methodology portion of the course,
+    documentation for users/developers, and a report summarizing the
+    project and analyzing the results.
 
 -   The project artifact includes 3 checkpoints similar to those in 180A.
 
 -   A primary and secondary visual/written communication of your project.
 
--   The primary output will be held to a higher standard than the secondary output.
-
--   One of the modes must be a written report.
-
--   Example 1: Primary is a scientific paper, included in your artifact; secondary is a blog post explaining results/technique to a general audience with carefully presented visuals.
-
--   Example 2: Primary is a website with carefully done (perhaps interactive) visuals; Secondary is the basic written report included in the artifact that explains and analyzes the project results.
-
--   Two oral presentations:
-
--   An elevator pitch for a general audience
-
--   A longer slide-based presentation aimed at a technical audience.
+-   Two oral presentations: An elevator pitch for a general audience
+    and a longer slide-based presentation aimed at a technical audience.
 
 ### Grading of course components
 
 |Component|Assignment|% of Grade|
 |---|---|---|
 |Participation (10%) |Weekly updates |5% |
-|\ |Peer Reviews |5% |
+|  |Peer Reviews |5% |
 |Proposal (5%)|Refinements (3x) |5% |
 |Project Artifact (30%) |Code Pipeline + Documentation |21% |
-|\ |Checkpoints (3x) |9% |
+|  |Checkpoints (3x) |9% |
 |Visual/Written Comm (40%) |Primary |20% |
-|\ |Secondary |12% |
-|\ |Checkpoints (4x) |8% |
+|  |Secondary |12% |
+|  |Checkpoints (4x) |8% |
 |Oral Communication (15%) |Elevator Pitch |5% |
-|\ |Detailed Talk |10% |
+|  |Detailed Talk |10% |
 
 Each assignment will be graded on an A/B/C/F scale, without the precision of plus/minus grades (A=4, B=3, C=2, F=0). The reason for this policy is twofold:
 

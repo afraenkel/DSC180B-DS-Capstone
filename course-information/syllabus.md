@@ -52,134 +52,18 @@ The course deliverables are described below (with links to assignments therein):
 
 ### Grading of course components
 
-|
-
-Component
-
- |
-
-Assignment
-
- |
-
-% of Grade
-
- |
-|
-
-Participation (10%)
-
- |
-
-Weekly updates
-
- |
-
-5%
-
- |
-|\
- |
-
-Peer Reviews
-
- |
-
-5%
-
- |
-|
-
-Proposal (5%)
-
- |
-
-Refinements (3x)
-
- |
-
-5%
-
- |
-|
-
-Project Artifact (30%)
-
- |
-
-Code Pipeline + Documentation
-
- |
-
-21%
-
- |
-|\
- |
-
-Checkpoints (3x)
-
- |
-
-9%
-
- |
-|
-
-Visual/Written Comm (40%)
-
- |
-
-Primary
-
- |
-
-20%
-
- |
-|\
- |
-
-Secondary
-
- |
-
-12%
-
- |
-|\
- |
-
-Checkpoints (4x)
-
- |
-
-8%
-
- |
-|
-
-Oral Communication (15%)
-
- |
-
-Elevator Pitch
-
- |
-
-5%
-
- |
-|\
- |
-
-Detailed Talk
-
- |
-
-10%
-
- |
+|Component|Assignment|% of Grade|
+|---|---|---|
+|Participation (10%) |Weekly updates |5% |
+|\ |Peer Reviews |5% |
+|Proposal (5%)|Refinements (3x) |5% |
+|Project Artifact (30%) |Code Pipeline + Documentation |21% |
+|\ |Checkpoints (3x) |9% |
+|Visual/Written Comm (40%) |Primary |20% |
+|\ |Secondary |12% |
+|\ |Checkpoints (4x) |8% |
+|Oral Communication (15%) |Elevator Pitch |5% |
+|\ |Detailed Talk |10% |
 
 Each assignment will be graded on an A/B/C/F scale, without the precision of plus/minus grades (A=4, B=3, C=2, F=0). The reason for this policy is twofold:
 
@@ -189,42 +73,12 @@ Each assignment will be graded on an A/B/C/F scale, without the precision of plu
 
 Assignments will be graded using the following rubric:
 
-|
-
-A (4.0)
-
- |
-
-Accomplishes the task accurately, completely, and clearly. Code is clear, effective, and efficient. Written component is concise, at the appropriate level, and correct. Oral component (when applicable) is effective both visually and explanation; is within the time limit.
-
- |
-|
-
-B (3.0)
-
- |
-
-Accomplishes the task well, but lacks some completeness or clarity. Code runs but lacks some aspect of clarity, effectiveness, and or efficiency. Written component is logical and generally correct, but lacks either clarity or accuracy. Oral component (when applicable) is moderately effective and/or slightly outside the time window.
-
- |
-|
-
-C (2.0)
-
- |
-
-The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity.
-
- |
-|
-
-F (0.0)
-
- |
-
-The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacking required information to understand what you did and/or your results. Oral component (when applicable) is nonsensical/unclear.
-
- |
+|Grade|Criteria|
+|---|---|
+|A (4.0) |Accomplishes the task accurately, completely, and clearly. Code is clear, effective, and efficient. Written component is concise, at the appropriate level, and correct. Oral component (when applicable) is effective both visually and explanation; is within the time limit. |
+|B (3.0) |Accomplishes the task well, but lacks some completeness or clarity. Code runs but lacks some aspect of clarity, effectiveness, and or efficiency. Written component is logical and generally correct, but lacks either clarity or accuracy. Oral component (when applicable) is moderately effective and/or slightly outside the time window. |
+|C (2.0) |The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity. |
+|F (0.0) |The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacking required information to understand what you did and/or your results. Oral component (when applicable) is nonsensical/unclear. |
 
 Final grades will be computed using the grade-points above, using the proportions given in the course components table. Letter grades will be assigned using the standard university cutoffs.
 
@@ -239,259 +93,40 @@ Assignments and Due Dates
 
 Assignments in the participation category are due on a regular schedule:
 
-|
-
-Title
-
- |
-
-Turned in How?
-
- |
-
-Regular Due Date
-
- |
-|
-
-Weekly check-ins
-
- |
-
-Canvas
-
- |
-
-Tues 11:59PM PDT
-
- |
-|
-
-Peer-feedback
-
- |
-
-Canvas
-
- |
-
-Tues 11:59PM PDT after rough draft
-
- |
+|Title |Turned in How? |Regular Due Date |
+|---|---|---|
+|Weekly check-ins |Canvas |Tues 11:59PM PDT |
+|Peer-feedback |Canvas |Tues 11:59PM PDT after rough draft |
 
 The assignments and due dates for the remainder of the assignments are in the table below:
 
-|
-
-Title
-
- |
-
-Turned in How?
-
- |
-
-Due Date 
-
-(Sunday after end of week)
-
- |
-|
-
-"Getting Started" assignment
-
- |
-
-Gradescope (code) + Turnitin (report)
-
- |
-
-Week 1
-
- |
-|
-
-Project Checkpoint #1 (Data); proposal revision (again)
-
- |
-
-Gradescope (code) + Turnitin (report)
-
- |
-
-Week 2
-
- |
-|
-
-Project Checkpoint #2 (EDA); proposal revision (again)
-
- |
-
-Gradescope (code) + Turnitin (report)
-
- |
-
-Week 4
-
- |
-|
-
-Elevator Pitch
-
- |
-
-Recorded and uploaded
-
- |
-
-Week 5
-
- |
-|
-
-Checkpoint for visual presentation (e.g. blog)
-
- |
-
-Gradescope (code) + Public website
-
- |
-
-Week 6
-
- |
-|
-
-Project Checkpoint #3 (full project artifact)
-
- |
-
-Gradescope (code) + Turnitin (report)
-
- |
-
-Week 7
-
- |
-|
-
-Long oral presentation
-
- |
-
-Live (and recorded) presentation on Zoom
-
- |
-
-Week 8
-
- |
+|Title |Turned in How? |Due Date (Sunday after end of week)|
+|---|---|---|
+|"Getting Started" assignment |Gradescope (code) + Turnitin (report) |Week 1 |
+|Project Checkpoint #1 (Data); proposal revision (again) |Gradescope (code) + Turnitin (report) |Week 2 |
+|Project Checkpoint #2 (EDA); proposal revision (again) |Gradescope (code) + Turnitin (report) |Week 4 |
+|Elevator Pitch |Recorded and uploaded |Week 5 |
+|Checkpoint for visual presentation (e.g. blog) |Gradescope (code) + Public website |Week 6 |
+|Project Checkpoint #3 (full project artifact) |Gradescope (code) + Turnitin (report) |Week 7 |
+|Long oral presentation |Live (and recorded) presentation on Zoom |Week 8 |
 
 Monday Lecture Schedule
 -----------------------
 
 Lecture will be pre-recorded and should be watched by the Monday given in the schedule below. Each lecture contains specifics necessary for properly developing your project and completing assignments according to their grading rubric.
 
-|
-
-Week #
-
- |
-
-Topic
-
- |
-|
-
-1
-
- |
-
-Planning software projects and agile development
-
- |
-|
-
-2
-
- |
-
-Developing software on GitHub in teams
-
- |
-|
-
-3
-
- |
-
-Effective (visual, oral) communication principles
-
- |
-|
-
-4
-
- |
-
-Scientific writing
-
- |
-|
-
-5
-
- |
-
-Static blogs
-
- |
-|
-
-6
-
- |
-
-Oral communication
-
- |
-|
-
-7
-
- |
-
-More effective (visual, oral) communication principles
-
- |
-|
-
-8
-
- |
-
-[[Empty]]
-
- |
-|
-
-9
-
- |
-
-Presentations
-
- |
-|
-
-10
-
- |
-
-Presentations
-
- |
+|Week # |Topic |
+|---|---|
+|1 |Planning software projects and agile development |
+|2 |Developing software on GitHub in teams |
+|3 |Effective (visual, oral) communication principles |
+|4 |Scientific writing |
+|5 |Static blogs |
+|6 |Oral communication |
+|7 |More effective (visual, oral) communication principles |
+|8 |[[Empty]] |
+|9 |Presentations |
+|10 |Presentations |
 
 Wednesday Domain Meetings
 -------------------------

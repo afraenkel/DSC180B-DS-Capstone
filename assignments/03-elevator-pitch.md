@@ -1,5 +1,7 @@
 ### Elevator Pitch
 
+[[TO BE COMPLETED]]
+
 The elevator pitch is a < 2 minute project pitch that motivates the
 problem and summarizes the approach. The pitch should convince the
 audience the problem is worth pursuing and contain just enough detail

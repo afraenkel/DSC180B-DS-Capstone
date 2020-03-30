@@ -1,5 +1,7 @@
 # Long Presentation
 
+[[TO BE COMPLETED]]
+
 The 'long presentation' is a 20 minute, slide-based presentation aimed
 at a semi-technical audience. The group should split the presentation
 up between all individuals. The content breakdown of the presentation

@@ -1,6 +1,6 @@
 # Project Checkpoints (3x)
 
-[[TO COMPLETE]]
+[[TO BE COMPLETED]]
 
 -   Each project checkpoint is taken from the proposal
     schedule. Students can create their own rubric on which to be

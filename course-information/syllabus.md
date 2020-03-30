@@ -4,7 +4,8 @@
 2. [Course Components](#coursecomponents)
    1. [Grading of course components](#componentgrading)
    2. [Grading rubric](#rubric)
-   3. [Grading: Group vs. Individual Work](#groupgrade)
+   3. [Pass/Not Pass Policy](#pnp)
+   4. [Grading: Group vs. Individual Work](#groupgrade)
 3. [Assignments and Due Dates](#duedates)
 4. [Monday Lecture Schedule](#lecture)
 5. [Wednesday Domain Meetings](#domain)
@@ -130,6 +131,18 @@ Final grades will be computed using the grade-points above, using the
 proportions given in the course components table. Letter grades will
 be assigned using the standard university cutoffs.
 
+### Pass/Not Pass Policy <a name="pnp"></a>
+
+The DSC program is offering students the option for students to take
+180B on a P/NP basis, with a P counting toward graduation
+requirements. This policy is meant to give students the option to
+reduce stress in their life during this continuing crisis, without
+penalizing their plan for graduation. 
+
+You have the option to change from a letter grade to P/NP (or
+vice-versa) through the end of week 10, so this is *not* a choice you
+have to make early in the quarter.
+
 ### Grading: Group vs. Individual Work <a name="groupgrade"></a>
 
 Written assignments are in part graded against the rubric that each
@@ -140,7 +153,8 @@ portions of the assignment each member completed.
 
 Assignments will largely be graded uniformly as a group. However, if
 the balance of quality or quantity of work is significantly
-non-uniform, grades may be apportioned out individually.
+non-uniform, grades may be apportioned out individually. This is
+especially relevant in relation to this quarter's P/NP policy.
 
 ## Assignments and Due Dates <a name="duedates"></a>
 
@@ -149,15 +163,15 @@ schedule:
 
 |Title |Turned in How? |Regular Due Date |
 |---|---|---|
-|Weekly check-ins |Canvas |Tues 11:59PM PDT |
-|Peer-feedback |Canvas |Tues 11:59PM PDT after rough draft |
+|[Weekly check-ins](../assignments/00-weekly-checkin.md)|Canvas |Tuesdays 11:59PM PDT |
+|[Peer-feedback](../assignments/00-weekly-checkin.md)|Canvas |Tuesdays 11:59PM PDT after each assignment is due |
 
 The assignments and due dates for the remainder of the assignments are
 in the table below:
 
 |Title |Turned in How? |Due Date (Sunday after end of week)|
 |---|---|---|
-|"Getting Started" assignment |Gradescope (code) + Turnitin (report) |Week 1 |
+|["Getting Started" assignment](../assignments/01-getting-started.md) |Gradescope (code) + Turnitin (report) |Week 1 |
 |Project Checkpoint #1 (Data); proposal revision (again) |Gradescope (code) + Turnitin (report) |Week 2 |
 |Project Checkpoint #2 (EDA); proposal revision (again) |Gradescope (code) + Turnitin (report) |Week 4 |
 |Elevator Pitch |Recorded and uploaded |Week 5 |
@@ -211,7 +225,13 @@ calendar.
 
 ## Working in Groups in Remote Environments <a name="groupenv"></a>
 
-... a section on tips for working in groups in remote environments...
+Setting up a comfortable, quiet environment to work is important for success on your project. However, it's a reality that both students and staff will be working in spaces not necessarily set up as a work environment. As such, we all will endure and tolerate hiccups in both delivering and taking the course. Good communication  is the key to handling such hiccups.
+
+-   If you are sharing a physical environment that regularly makes it difficult to do the required coursework or attend any required course component in real-time, please reach out to course staff early.
+
+-   If you experience hiccups that make working difficult, share them early. Course staff and classmates may have helpful tips to solve or alleviate these problems. If such problems are affecting your ability to make a deadline, surfacing them early will help course staff accommodate you.
+
+Success in this course requires working closely with your fellow group members. You are required to have regular meetings with your group. Consider using multiple modes of collaboration and communication with your groups, including audio-visual (e.g. via Zoom, Hangouts, etc), synchronous chat (Slack, Hangouts, Whatsapp, etc), and asynchronous chat/writing (Canvas Groups, Piazza, Google Docs, GitHub issues).
 
 ## Academic Integrity <a name="AI"></a>
 

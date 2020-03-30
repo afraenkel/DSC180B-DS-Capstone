@@ -58,3 +58,16 @@ Course Deliverables
 -------------------
 
 You will turn in code and written reports throughout the quarter as you progress on your project (3 checkpoints and a final product), as well as present additional visual and oral presentations on your project. Smaller assignments include revisions to your project proposal, weekly check-ins, and peer-review submissions.
+
+Pass / Not Pass Policy
+----------------------
+
+The DSC program is offering students the option for students to take
+180B on a P/NP basis, with a P counting toward graduation
+requirements. This policy is meant to give students the option to
+reduce stress in their life during this continuing crisis, without
+penalizing their plan for graduation. 
+
+You have the option to change from a letter grade to P/NP (or
+vice-versa) through the end of week 10, so this is *not* a choice you
+have to make early in the quarter.

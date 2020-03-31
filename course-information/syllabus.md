@@ -265,6 +265,12 @@ feature made visible to you; this transparency will help you to
 improve the quality of your citations. You are also encouraged to ask
 course staff for guidance, when unsure!
 
+On each of the checkpoints, the content-similarity feature is visible upon
+submission to help you better learn to quote and paraphrase
+sources. Remember, you should be using outside sources and you should
+be citing them! On the final project, the content-similarity feature
+will be turned off.
+
 Of course, following the [UCSD Policy on Integrity of
 Scholarship](http://academicintegrity.ucsd.edu/process/policy.html) is
 required in this course. Ignorance of the rules will not excuse you

@@ -43,3 +43,14 @@ be citing them!
 After submitting this assignment, each individual will be assigned a
 different group's proposal to peer review, due **Tuesday 4/7
 11:59PM**. The peer review will be turned in on Canvas.
+
+For the peer review, you will be assigned another groups assignment
+and you must complete it *individually*. Answer the following
+questions:
+
+1. Summary of the question/problem being approached.
+1. What is the most interesting aspect of the proposal.
+1. What is the most difficult task to complete in the project? Do you
+   see any possible issues completing the task?
+1. What is the clearest part of the proposal?
+1. What is the most unclear part of the proposal?

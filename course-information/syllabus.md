@@ -164,7 +164,7 @@ schedule:
 |Title |Turned in How? |Regular Due Date |
 |---|---|---|
 |[Weekly check-ins](../assignments/00-weekly-checkin.md)|Canvas |Tuesdays 11:59PM PDT |
-|[Peer-feedback](../assignments/00-weekly-checkin.md)|Canvas |Tuesdays 11:59PM PDT after each assignment is due |
+|[Peer-feedback](../assignments/00-peer-review.md)|Canvas |Tuesdays 11:59PM PDT after each assignment is due |
 
 The assignments and due dates for the remainder of the assignments are
 in the table below:

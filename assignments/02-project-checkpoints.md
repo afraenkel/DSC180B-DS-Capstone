@@ -67,9 +67,33 @@ unchanged from last quarter).
 
 ## Project Checkpoint #2
 
-[[TO BE COMPLETED]]
+**Default Task for the project checkpoint #2**: The second project
+checkpoint will likely mimic project checkpoint #2 in 180A.
 
-## Project Checkpoitn #3
+1. Overall, your checkpoint report should statistically assess the
+   quality of the data, justify the data-cleaning logic, and
+   explain/analyze the features/statistics/targets needed needed for
+   your project. **This portion should make it clear that your data is
+   capable of approaching the main question of your project.** In
+   particular, your EDA should serve as a sort of baseline that allows
+   you to assess and contextualize your eventual project results.
+   
+2. Your code should follow the standards from last quarter. In
+   particular, while notebooks may contain large portions of your EDA,
+   you should take care to:
+   * Create helper functions in library code for reuse in notebooks,
+   * Be sure that notebooks never take long to run (if they do, that
+     processing code should be a part of your pipeline and output
+     smaller, intermediate data that is quick to read).
+
+**Note:** As before, you may choose to increase or reduce the scope of
+this checkpoint depending on your project (e.g. if you still have data
+ingestion being worked on). However, the work should remain reasonably
+consistent with the default task; if you have concerns, ask your
+domain expert.
+
+
+## Project Checkpoint #3
 
 [[TO BE COMPLETED]]
 

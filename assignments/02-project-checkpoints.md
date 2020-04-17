@@ -81,11 +81,20 @@ checkpoint will likely mimic project checkpoint #2 in 180A.
 2. Your code should follow the standards from last quarter. In
    particular, while notebooks may contain large portions of your EDA,
    you should take care to:
-   * Create helper functions in library code for reuse in notebooks,
+   * Create helper functions in library code for reuse in notebooks.
    * Be sure that notebooks never take long to run (if they do, that
      processing code should be a part of your pipeline and output
      smaller, intermediate data that is quick to read).
-
+   * Create *small* test data that you version with your code (your
+     repo should not be more than << 10MB without notebooks). Include
+     the target `test` in your run.py so that if you clone your
+     project repo, run `python run.py test`, then run the notebooks,
+     everything appears as it should (the *content* of the
+     graphs/figures will be nonsense, because it's run on test data,
+     but it still *runs*).
+   * In checkpoint 3, you'll have to include a Docker image, so start
+     working on that now!
+     
 **Note:** As before, you may choose to increase or reduce the scope of
 this checkpoint depending on your project (e.g. if you still have data
 ingestion being worked on). However, the work should remain reasonably

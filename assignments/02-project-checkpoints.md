@@ -76,7 +76,9 @@ checkpoint will likely mimic project checkpoint #2 in 180A.
    your project. **This portion should make it clear that your data is
    capable of approaching the main question of your project.** In
    particular, your EDA should serve as a sort of baseline that allows
-   you to assess and contextualize your eventual project results.
+   you to assess and contextualize your eventual project
+   results. *Remember to structure your report as laid out above in
+   the 'What is turned in?' section.
    
 2. Your code should follow the standards from last quarter. In
    particular, while notebooks may contain large portions of your EDA,
@@ -92,6 +94,9 @@ checkpoint will likely mimic project checkpoint #2 in 180A.
      everything appears as it should (the *content* of the
      graphs/figures will be nonsense, because it's run on test data,
      but it still *runs*).
+   * Include an `env.json` in your `config` directory that includes a
+     key `"repository"` and with value the url of your repository
+     (e.g. `https://github.com/afraenkel/DSC180B-DS-Capstone`).
    * In checkpoint 3, you'll have to include a Docker image, so start
      working on that now!
      

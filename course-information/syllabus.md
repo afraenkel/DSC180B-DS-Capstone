@@ -172,9 +172,9 @@ in the table below:
 |Title |Turned in How? |Due Date (Sunday after end of week)|
 |---|---|---|
 |["Getting Started" assignment](../assignments/01-getting-started.md) |Gradescope (code) + Turnitin (report) |Week 1 |
-|Project Checkpoint #1 (Data); proposal revision (again) |Gradescope (code) + Turnitin (report) |Week 2 |
-|Project Checkpoint #2 (EDA); proposal revision (again) |Gradescope (code) + Turnitin (report) |Week 4 |
-|Elevator Pitch |Recorded and uploaded |Week 5 |
+|[Project Checkpoint #1 (Data); proposal revision (again)](../assignments/02-project-checkpoints.md) |Gradescope (code) + Turnitin (report) |Week 2 |
+|[Project Checkpoint #2 (EDA); proposal revision (again)](../assignments/02-project-checkpoints.md) |Gradescope (code) + Turnitin (report) |Week 4 |
+|[Elevator Pitch](../assignments/03-elevator-pitch.md) |Recorded and uploaded |Week 5 |
 |Checkpoint for visual presentation (e.g. blog) |Gradescope (code) + Public website |Week 6 |
 |Project Checkpoint #3 (full project artifact) |Gradescope (code) + Turnitin (report) |Week 7 |
 |Long oral presentation |Live (and recorded) presentation on Zoom |Week 8 |

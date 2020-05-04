@@ -109,6 +109,42 @@ domain expert.
 
 ## Project Checkpoint #3
 
-[[TO BE COMPLETED]]
+1. Project Checkpoint #3 is a rough draft for your *complete*
+   report. While your results may still be pending and details may not
+   be filled in, *what you are computing* should be clearly written in
+   this report. Moreover, you should at least have honest first
+   attempts at computing these results. 
+   
+   Your report should follow best practices laid out in the lectures
+   on "effective communication" and "scientific writing". Following
+   these guidelines will be a significant part of the rubric.
+   
+2. Your code should follow methodological best practices laid out in
+   180A. In particular, you should include:
+   * Small test data (<< 10MB) on which to run your code pipeline,
+   * An `env.json` in your config directory that includes a key
+     `"repository"` with the value of the url of your repository and a
+     key `"docker-image"` with the value a DockerHub path (e.g. the
+    input of the `-i` flag when starting a container on the DSMLP
+    server).
+
+
+Your code will be turned into gradescope directly from
+GitHub. Alongside inspecting the files of the repository, it will
+be graded using the following procedure:
+
+1. Your submitted repository will be uploaded to a DSMLP server.
+2. A container will be started using the specified Docker Image in
+   your repository's `env.json`
+3. In this container, the following command will be run: `python
+   run.py test-project`
+4. Running the above target will run your replication on a small
+   amount of test data. The existence/content of output test files
+   will be checked.
+
+
+
+
+
 
 

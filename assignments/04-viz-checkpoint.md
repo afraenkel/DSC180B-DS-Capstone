@@ -1,7 +1,24 @@
-# Visual Presentation Checkpoint
+# Visual Presentation Checkpoint (Due Tue May 12 11:59PM)
 
-[[TO BE COMPLETED]]
+The purpose of this assignment is to 
+1. get the technology for your webpage started, and
+2. carefully plan and organize the *purpose* and *overall content* of
+   your webpage.
 
-(1) set up code to host the content and 
-(2) sketch an outline of the content...
+Set up GitHub pages and create a working "rough draft" of the
+visual-presentation for your project. This page should allow your
+intended audience to understand or interact with your project.
 
+Turn in ~2 paragraphs that:
+1. Specifies the URL of the webpage (the webpage only needs to load
+   and contain an outline of the eventual material).
+2. Describes the intended audience for the webpage (what background do
+   they have? Domain? Technical? General Audience?).
+3. Describes in detail two different visualizations that you will
+   include on the webpage (what they describe / do; what purpose they
+   serve). Be as specific as possible.
+4. Summarizes the outline of the webpage.
+
+Turn in a sketch of your webpage, including the visualizations and
+outline described above. This can either be included in the document
+above, or submitted as an image file alongside the document above.

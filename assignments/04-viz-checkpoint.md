@@ -9,7 +9,7 @@ Set up GitHub pages and create a working "rough draft" of the
 visual-presentation for your project. This page should allow your
 intended audience to understand or interact with your project.
 
-To set up your own page follow the tutorial on:
+To set up your own page from *markdown* components, follow the tutorial on:
 * https://kbroman.org/simple_site/
 
 Pay particular attention to:
@@ -17,6 +17,8 @@ Pay particular attention to:
 * https://kbroman.org/simple_site/pages/independent_site.html
 * https://github.com/kbroman/simple_site (code)
 
+If you would like to develop the page directly from html, you can
+follow the simpler 'getting started' here: https://pages.github.com/
 
 Turn in ~2 paragraphs that:
 1. Specifies the URL of the webpage (the webpage only needs to load

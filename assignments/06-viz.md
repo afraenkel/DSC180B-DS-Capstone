@@ -1,7 +1,5 @@
 # Visual Presentation
 
-[[TO BE COMPLETED]]
-
 The visual presentation should allow people to understand and interact
 with the output of your project through visual media and written
 content. This content should be largely accessible to a general

@@ -1,4 +1,4 @@
-# Visual Presentation
+# Visual Presentation (Due Tuesday Jun 2 11:59PM)
 
 The visual presentation should allow people to understand and interact
 with the output of your project through visual media and written
@@ -19,9 +19,11 @@ The visual presentation can either be your primary or secondary form
 of project output.
 
 -   If the visual presentation is your primary output, then it must
-    RUBRIC:XXXXXXX. In this case, the report turned in with the
-    project artifact will consist of a basic summary of the process
-    and results.
+    address your intended audience using the best practices laid in
+    the lectures in 'effective communication' and 'scientific
+    writing'. In this case, the report turned in with the project
+    artifact will consist of a basic summary of the process and
+    results.
 
 -   If the visual presentation is your secondary output, then it can
     merely provide a visual hook and summary for the project to a

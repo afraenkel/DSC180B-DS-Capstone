@@ -1,6 +1,7 @@
-### Final Project Artifact
+### Final Project Artifact (Due Monday June 8 11:59PM)
 
-[[TO BE COMPLETED]]
+**Expect to have a mostly finished draft ready in discussion section
+week 10**.
 
 The final project artifact consists of the project's code,
 documentation, and written report. Details on the three components:
@@ -16,6 +17,3 @@ documentation, and written report. Details on the three components:
 3.  The project artifact should include a written report introducing
     the project and summarizing/analyzing the results. The report is
     modeled after the result-replication report in 180A.
-
-
-
